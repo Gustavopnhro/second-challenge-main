@@ -1,0 +1,1 @@
+web: java -jar #Path da build gerada
